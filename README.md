@@ -1,4 +1,4 @@
-# TitrationSimulator
+# Titration Simulator
 A silly game about doing titrations as fast and as accurately as possible. I made this because I thought it would be funny. Now I question my sanity.
 
 **You can play the game in your browser** [here](https://andrewtong.me/TitrationSimulatorWebApp/).
